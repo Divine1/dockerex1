@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "apiServer",
+            "script": "npm",
+            "args" : "run prod"
+        }
+    ]
+}
+

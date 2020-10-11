@@ -1,0 +1,9 @@
+services:
+  apiserver1:
+    build: .
+    ports:
+      - 3002:3000
+  apiserver2:
+    build: .
+    ports:
+      - 3003:3000
